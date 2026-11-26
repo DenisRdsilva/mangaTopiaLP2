@@ -33,6 +33,12 @@ Clone o repositório ou extraia o arquivo .zip do projeto:
 git clone [LINK_DO_REPOSITORIO](https://github.com/DenisRdsilva/mangaTopiaLP2)
 cd mangaTopiaLP2
 
+Comando de compilação:
+javac -encoding UTF-8 -d bin (Get-ChildItem -Recurse -Filter *.java).FullName
+
+Comando de execução:
+java -cp out Main
+
 Credenciais Padrão (Primeiro Acesso)
 
 Ao iniciar o sistema pela primeira vez sem arquivos de dados prévios, um administrador padrão é gerado automaticamente:

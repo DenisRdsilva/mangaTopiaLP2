@@ -1,7 +1,7 @@
-package mangaTopiaLP2.models.pedido;
+package models.pedido;
 
 import java.io.Serializable;
-import mangaTopiaLP2.models.catalogo.ItemCatalogo;
+import models.catalogo.ItemCatalogo;
 
 public class ItemPedido implements Serializable {
     private static final long serialVersionUID = 1L;

@@ -1,0 +1,82 @@
+[
+  {
+    "idItem": "VOL-YGO-01",
+    "manga": {
+      "id": "MNG-001",
+      "titulo": "Yu-Gi-Oh!",
+      "autor": "Kazuki Takahashi",
+      "genero": "SHONEN",
+      "faixaEtaria": 12
+    },
+    "numeroVolume": 1,
+    "precoBase": 34.90,
+    "pesoGramas": 280.0,
+    "dimensoes": "13.5 x 20.0 cm",
+    "tipoCapa": "BROCHURA",
+    "quantidadeEstoque": 15
+  },
+  {
+    "idItem": "VOL-PKM-01",
+    "manga": {
+      "id": "MNG-002",
+      "titulo": "Pokémon Red, Green & Blue",
+      "autor": "Hidenori Kusaka",
+      "genero": "SHONEN",
+      "faixaEtaria": 10
+    },
+    "numeroVolume": 1,
+    "precoBase": 39.90,
+    "pesoGramas": 310.0,
+    "dimensoes": "14.0 x 21.0 cm",
+    "tipoCapa": "BROCHURA",
+    "quantidadeEstoque": 20
+  },
+  {
+    "idItem": "VOL-SCC-01",
+    "manga": {
+      "id": "MNG-003",
+      "titulo": "Cardcaptor Sakura - Edição Especial",
+      "autor": "CLAMP",
+      "genero": "SHOUJO",
+      "faixaEtaria": 10
+    },
+    "numeroVolume": 1,
+    "precoBase": 54.90,
+    "pesoGramas": 420.0,
+    "dimensoes": "15.0 x 21.0 cm",
+    "tipoCapa": "CAPA_DURA",
+    "quantidadeEstoque": 8
+  },
+  {
+    "idItem": "VOL-JBA-01",
+    "manga": {
+      "id": "MNG-004",
+      "titulo": "JoJo's Bizarre Adventure - Parte 1: Phantom Blood",
+      "autor": "Hirohiko Araki",
+      "genero": "SEINEN",
+      "faixaEtaria": 16
+    },
+    "numeroVolume": 1,
+    "precoBase": 49.90,
+    "pesoGramas": 450.0,
+    "dimensoes": "14.8 x 21.0 cm",
+    "tipoCapa": "EDICAO_COLECIONADOR",
+    "quantidadeEstoque": 12
+  },
+  {
+    "idItem": "VOL-OPC-01",
+    "manga": {
+      "id": "MNG-005",
+      "titulo": "One Piece",
+      "autor": "Eiichiro Oda",
+      "genero": "SHONEN",
+      "faixaEtaria": 12
+    },
+    "numeroVolume": 1,
+    "precoBase": 36.90,
+    "pesoGramas": 260.0,
+    "dimensoes": "13.7 x 20.0 cm",
+    "tipoCapa": "BROCHURA",
+    "quantidadeEstoque": 25
+  }
+]
