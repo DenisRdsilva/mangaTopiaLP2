@@ -1,4 +1,4 @@
-package exception;
+package mangaTopiaLP2.exception;
 
 public class MangaTopiaException extends RuntimeException {
     public MangaTopiaException(String message) {

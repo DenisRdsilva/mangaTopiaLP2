@@ -1,6 +1,6 @@
-package exception.usuario;
+package mangaTopiaLP2.exception.usuario;
 
-import exception.MangaTopiaException;
+import mangaTopiaLP2.exception.MangaTopiaException;
 
 public class FaixaEtariaIncompativelException extends MangaTopiaException {
     public FaixaEtariaIncompativelException(int idade, int classificacao) {

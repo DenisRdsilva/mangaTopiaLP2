@@ -1,6 +1,6 @@
-package models.usuario;
+package mangaTopiaLP2.models.usuario;
 
-import models.enums.PerfilUsuario;
+import mangaTopiaLP2.models.enums.PerfilUsuario;
 
 import java.io.Serializable;
 import java.time.LocalDate;

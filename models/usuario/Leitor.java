@@ -1,7 +1,7 @@
-package models.usuario;
+package mangaTopiaLP2.models.usuario;
 
-import exception.usuario.FaixaEtariaIncompativelException;
-import models.enums.PerfilUsuario;
+import mangaTopiaLP2.exception.usuario.FaixaEtariaIncompativelException;
+import mangaTopiaLP2.models.enums.PerfilUsuario;
 
 import java.time.LocalDate;
 
